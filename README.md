@@ -7,3 +7,7 @@ Diego González Aguado A01708231 - https://github.com/A01708231/Laboratorio_A017
 
 
 Jose Luis Miranda Mejia A01703867 - https://github.com/Jose-Luis-Miranda-Mejia/Laboratorio_A01703867
+
+
+
+Escogimos la base de datos de las muertes de los Vengadores, con los datos del personaje.
